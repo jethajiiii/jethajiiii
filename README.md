@@ -7,7 +7,7 @@
 <!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
      wordmark (wipes in left-to-right, then rocks on its vertical axis). -->
 
-<h3><code>jethajiiii@github ~ $ whoami</code></h3>
+<h3><code>jethajiiii@github ~ $ Mukul Bhardwaj</code></h3>
 
 <table>
 <tr>
